@@ -1,5 +1,5 @@
 # MoviesCorrelation
-This is a correlation about movie features using python and a movie dataset from Kaggle. I did it in Jupyter notebooks but you can run the file in your favorite editor
+This is a correlation about movie features using python and a movie dataset from Kaggle. I did it in Jupyter notebooks but you can run the file in your favorite editor.
 I used python libraries Pandas, Numpy, Seaborn and Matplotlib.
 I loaded the dataset, checked the percentage of missing values, dropped the nulls in the rows that had a significant percentage of Missing values and the duplicates.
 Then I created a scatterplot, and a scatterplot with a regression line and finally a heatmap
